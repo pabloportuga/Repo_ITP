@@ -1,0 +1,1 @@
+Os códigos em C contêm informações sobre os conteúdos de String e Ponteiros.
